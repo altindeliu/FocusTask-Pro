@@ -28,6 +28,8 @@ https://drive.google.com/file/d/16C8kBcfq9kLqt1zuz_K8KR-OccK9CGXR/view?usp=shari
 ## Installation
 
 ```bash
+git clone https://github.com/altindeliu/FocusTask-Pro.git
+cd FocusTask-Pro 
 npm install
 ```
 
